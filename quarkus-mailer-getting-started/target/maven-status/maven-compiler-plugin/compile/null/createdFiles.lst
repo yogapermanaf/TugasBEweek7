@@ -1,0 +1,9 @@
+org\acme\CountResource.class
+PakDengklek\Tomat.class
+org\acme\CounterBean.class
+PakDengklek\MailSender.class
+PakDengklek\TomatResource.class
+META-INF\panache-archive.marker
+org\acme\MailResource.class
+PakDengklek\TomatRepository.class
+PakDengklek\TomatManager.class
